@@ -1,67 +1,58 @@
-# Customer Segmentation Analysis Using Retail Sales Data
+Customer Segmentation Analysis Using Retail Sales Data
 
-## 📌 Internship Information
-**Internship Program:** Oasis Infobyte – Data Analytics Internship  
-**Intern Name:** Divya Musale  
-**Domain:** Data Analytics  
+Internship Information
+This project is completed as part of the Oasis Infobyte – Data Analytics Internship.
 
----
+Project Overview
+The objective is to perform customer segmentation analysis using retail sales data to identify meaningful groups based on purchasing behavior and derive insights for business and marketing strategies.
 
-## 📊 Project Overview
-This project aims to analyze customer segments using retail sales data. By studying purchasing behavior, sales trends, and shipping timelines, the project identifies patterns that can support marketing and business strategies.
+Problem Statement
+Retail organizations serve different types of customers with unique purchasing behaviors. Without segmentation, targeted marketing and sales optimization are difficult. This project focuses on analyzing customer segments to extract actionable insights.
 
----
+Dataset Description
+Dataset contains:
 
-## ❓ Problem Statement
-Retail organizations serve different types of customers with varying purchasing behaviors. Without proper segmentation, it becomes difficult to design targeted strategies. This project focuses on segmenting customers based on sales data to derive actionable insights.
+Customer details (Customer ID, Segment)
+Order and shipping dates
+Sales values
+Product category and sub-category
+Location details (City, State, Region)
+Records: 9800, Columns: 18
 
----
+Data quality checks were performed for missing values and consistency.
 
-## 📂 Dataset Description
-The dataset includes:
-- Customer information and segments  
-- Order and shipping dates  
-- Sales values  
-- Product categories  
-- Regional and city-level data  
+Tools and Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
 
-The dataset contains 9800 records and 18 columns and was preprocessed before analysis.
+Steps Performed
+Imported and examined dataset
+Checked and handled missing values
+Converted dates to datetime format
+Created feature Shipping_Days
+Performed customer segmentation analysis
 
----
+Visualized:
+Segment-wise total sales
+Customer count by segment
+Region-wise sales
+Category-wise sales
+Shipping days by segment
+Identified top cities and products
+Interpreted results to generate actionable insights
 
-## 🛠️ Tools & Technologies Used
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook / Google Colab  
+Key Insights
+Consumer segment contributes the highest sales
+Sales performance varies across regions
+Certain product categories dominate total sales
+Shipping days are consistent across segments
+Few cities and products contribute a large portion of revenue
 
----
+Conclusion
+Customer segmentation helps understand purchasing behavior and improve business decisions. Insights can enhance marketing strategies, logistics, and customer engagement.
 
-## 🔍 Steps Performed
-1. Imported and explored the dataset  
-2. Handled missing values and data inconsistencies  
-3. Converted date columns into datetime format  
-4. Created new features such as shipping days  
-5. Performed customer segmentation analysis  
-6. Visualized sales and customer distribution  
-7. Identified top cities and products  
-
----
-
-## 📈 Key Insights
-- The Consumer segment contributes the highest sales  
-- Sales vary significantly across regions  
-- Certain categories dominate overall revenue  
-- A small number of cities and products generate high sales  
-
----
-
-## ✅ Conclusion
-This project highlights the importance of customer segmentation in understanding purchasing behavior. The analysis provides insights that can help businesses improve marketing strategies and customer engagement.
-
----
-
-## ⚠️ Disclaimer
-This project is created strictly for educational and internship purposes under Oasis Infobyte.
+This project is created solely for educational and internship purposes.
