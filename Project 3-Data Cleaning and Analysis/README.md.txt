@@ -1,65 +1,53 @@
-# Student Performance Analysis (Exploratory Data Analysis)
+Student Performance Analysis
 
-## 📌 Internship Information
-**Internship Program:** Oasis Infobyte – Data Analytics Internship  
-**Intern Name:** Divya Musale  
-**Domain:** Data Analytics  
+Internship Information
+This project is completed as part of the Oasis Infobyte – Data Analytics Internship.
 
----
+Project Overview
+The goal is to analyze student academic performance data to identify patterns, trends, and relationships between attendance, study hours, department, and exam results.
 
-## 📊 Project Overview
-This project analyzes student academic performance data to understand how factors such as attendance, study hours, gender, and department affect final exam results.
+Problem Statement
+Educational institutions collect data on student attendance, study habits, and exam marks. Without proper analysis, it is difficult to identify key factors affecting performance. This project performs EDA to uncover insights.
 
----
+Dataset Description
 
-## ❓ Problem Statement
-Educational institutions collect large amounts of student data, but without analysis, it is difficult to identify factors affecting academic performance. This project uses EDA to uncover relationships and performance trends.
+Column	Description
+Student_ID	-Unique ID of student
+Gender	-Male / Female
+Age	-Student age
+Department	-Academic department (e.g., Computer, Civil)
+Attendance_%	-Attendance percentage
+Study_Hours_Per_Day	-Average study hours per day
+Internal_Marks	-Marks obtained in internal assessments
+Final_Exam_Marks-	Marks obtained in final exam
+Grade-	Final grade based on marks
 
----
+Data was checked for missing values and consistency.
 
-## 📂 Dataset Description
-The dataset contains:
-- Student demographic details  
-- Attendance percentage  
-- Study hours per day  
-- Internal and final exam marks  
-- Grade information  
+Tools and Technologies Used
+Python
+Pandas
+Matplotlib
+Seaborn
+Jupyter Notebook / Google Colab
 
-The dataset was checked for missing values and prepared for analysis.
+Steps Performed
+Imported and explored dataset
+Checked rows, columns, data types, and missing values
+Performed descriptive statistics using df.describe()
+Visualized data using histograms, boxplots, bar charts, scatter plots
+Analyzed relationships between attendance, study hours, department, gender, and final marks
+Derived actionable insights
 
----
+Key Insights
+Distribution of final exam marks highlights performance trends
+Gender-wise performance differences
+Average marks vary across departments
+Attendance positively correlates with final marks
+Study hours per day affect results
+Grade distribution identifies high- and low-performing students
 
-## 🛠️ Tools & Technologies Used
-- Python  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook / Google Colab  
+Conclusion
+EDA provides meaningful insights into student performance and helps in academic strategies, student support, and personalized learning interventions.
 
----
-
-## 🔍 Steps Performed
-1. Imported and explored the dataset  
-2. Performed descriptive statistical analysis  
-3. Checked data quality and missing values  
-4. Visualized distributions and comparisons  
-5. Analyzed relationships between study habits and performance  
-6. Interpreted results to derive insights  
-
----
-
-## 📈 Key Insights
-- Attendance positively affects final exam marks  
-- Study hours have a noticeable impact on performance  
-- Performance varies across departments  
-- Grade distribution highlights high and low performers  
-
----
-
-## ✅ Conclusion
-This project demonstrates how Exploratory Data Analysis can provide meaningful insights into student performance. The findings can support academic planning and student improvement strategies.
-
----
-
-## ⚠️ Disclaimer
-This project is created strictly for educational and internship purposes under Oasis Infobyte.
+This project is created solely for educational and internship purposes.
