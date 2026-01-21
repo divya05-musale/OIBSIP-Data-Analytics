@@ -1,0 +1,111 @@
+﻿Transaction_ID,Customer_ID,Transaction_Amount,Transaction_Type,Transaction_Date,Location,Fraudulent
+T001,C101,5445,Online,1/18/2026,Miami,No
+T002,C102,7698,Online,2/24/2026,Dallas,No
+T003,C103,18449,Offline,2/18/2026,Chicago,No
+T004,C104,16917,Online,1/9/2026,Los Angeles,No
+T005,C105,13656,Online,1/23/2026,New York,No
+T006,C106,2749,Offline,2/22/2026,Los Angeles,No
+T007,C107,13237,Online,2/7/2026,Seattle,Yes
+T008,C108,14003,Offline,1/2/2026,New York,No
+T009,C109,14112,Offline,2/4/2026,New York,No
+T010,C110,3549,Online,2/25/2026,Atlanta,No
+T011,C111,10137,Online,1/3/2026,Atlanta,Yes
+T012,C112,10751,Offline,1/9/2026,New York,No
+T013,C113,3375,Online,1/13/2026,Houston,No
+T014,C114,16947,Online,1/4/2026,Houston,No
+T015,C115,2605,Online,1/9/2026,Los Angeles,No
+T016,C116,5508,Offline,2/22/2026,San Francisco,No
+T017,C117,3829,Offline,1/30/2026,Los Angeles,No
+T018,C118,18503,Online,1/21/2026,Houston,No
+T019,C119,15654,Offline,1/1/2026,San Francisco,No
+T020,C120,2427,Offline,2/26/2026,Miami,No
+T021,C121,10210,Online,1/10/2026,Dallas,No
+T022,C122,8568,Offline,1/18/2026,Dallas,No
+T023,C123,7677,Online,1/22/2026,Miami,No
+T024,C124,6263,Offline,2/17/2026,Miami,No
+T025,C125,19527,Online,2/3/2026,Atlanta,Yes
+T026,C126,9655,Offline,1/15/2026,Dallas,Yes
+T027,C127,8183,Offline,2/1/2026,Miami,No
+T028,C128,19019,Offline,2/7/2026,San Francisco,No
+T029,C129,7196,Offline,2/19/2026,Boston,No
+T030,C130,5721,Offline,2/8/2026,Atlanta,No
+T031,C131,5357,Online,1/27/2026,Houston,Yes
+T032,C132,8364,Online,2/1/2026,Seattle,No
+T033,C133,13604,Online,1/12/2026,Atlanta,Yes
+T034,C134,16815,Offline,1/26/2026,Dallas,No
+T035,C135,6925,Online,2/23/2026,Houston,No
+T036,C136,17452,Offline,2/9/2026,Houston,No
+T037,C137,5491,Offline,2/22/2026,Houston,No
+T038,C138,3234,Offline,2/1/2026,Chicago,No
+T039,C139,18821,Online,1/2/2026,Atlanta,No
+T040,C140,3214,Online,1/22/2026,New York,No
+T041,C141,15449,Online,1/26/2026,Dallas,Yes
+T042,C142,5573,Online,1/19/2026,Los Angeles,No
+T043,C143,4522,Online,2/18/2026,Miami,No
+T044,C144,16644,Offline,2/13/2026,Boston,No
+T045,C145,12497,Offline,2/27/2026,Seattle,Yes
+T046,C146,3902,Offline,1/28/2026,Atlanta,No
+T047,C147,3633,Online,1/31/2026,Houston,Yes
+T048,C148,7492,Online,1/3/2026,Seattle,No
+T049,C149,15908,Online,1/9/2026,Dallas,No
+T050,C150,15710,Offline,1/3/2026,Houston,No
+T051,C151,15568,Online,1/28/2026,Boston,No
+T052,C152,6022,Offline,1/5/2026,Boston,No
+T053,C153,10678,Offline,1/25/2026,Chicago,Yes
+T054,C154,10777,Offline,2/4/2026,Miami,No
+T055,C155,14314,Offline,1/27/2026,Atlanta,No
+T056,C156,12447,Offline,1/13/2026,San Francisco,No
+T057,C157,4018,Online,1/15/2026,Miami,No
+T058,C158,1233,Online,2/16/2026,Chicago,No
+T059,C159,17754,Online,2/17/2026,Houston,No
+T060,C160,6192,Online,2/23/2026,Seattle,No
+T061,C161,6013,Online,2/27/2026,Chicago,No
+T062,C162,14860,Online,2/24/2026,Atlanta,No
+T063,C163,8898,Offline,2/2/2026,Seattle,Yes
+T064,C164,19949,Online,2/11/2026,Chicago,No
+T065,C165,11770,Offline,2/15/2026,Atlanta,No
+T066,C166,18517,Offline,2/27/2026,Dallas,No
+T067,C167,8840,Offline,2/19/2026,Dallas,No
+T068,C168,15475,Online,1/17/2026,Los Angeles,No
+T069,C169,5029,Offline,1/14/2026,Atlanta,No
+T070,C170,7016,Online,1/19/2026,Boston,No
+T071,C171,11196,Online,1/14/2026,San Francisco,No
+T072,C172,6222,Online,1/31/2026,Miami,No
+T073,C173,4870,Online,1/9/2026,Atlanta,No
+T074,C174,2536,Offline,2/13/2026,Dallas,Yes
+T075,C175,19202,Offline,2/18/2026,Seattle,No
+T076,C176,14093,Offline,2/20/2026,Miami,Yes
+T077,C177,19048,Online,2/14/2026,Dallas,No
+T078,C178,11942,Offline,1/4/2026,Dallas,No
+T079,C179,4637,Online,1/14/2026,Chicago,No
+T080,C180,8621,Online,1/30/2026,Los Angeles,Yes
+T081,C181,11074,Online,2/19/2026,Dallas,No
+T082,C182,1125,Online,2/11/2026,Boston,No
+T083,C183,11819,Offline,2/14/2026,Houston,No
+T084,C184,2968,Offline,2/27/2026,Dallas,No
+T085,C185,11437,Offline,1/5/2026,San Francisco,No
+T086,C186,17557,Online,2/19/2026,San Francisco,No
+T087,C187,3932,Online,1/26/2026,Miami,No
+T088,C188,4455,Online,1/20/2026,Miami,No
+T089,C189,287,Online,2/4/2026,San Francisco,Yes
+T090,C190,17826,Online,2/18/2026,Dallas,No
+T091,C191,5638,Offline,1/8/2026,Chicago,No
+T092,C192,7890,Offline,1/15/2026,San Francisco,No
+T093,C193,1433,Offline,1/20/2026,Los Angeles,No
+T094,C194,13339,Offline,2/22/2026,Seattle,No
+T095,C195,15066,Online,1/21/2026,San Francisco,No
+T096,C196,14875,Online,2/18/2026,San Francisco,No
+T097,C197,7840,Online,2/10/2026,Seattle,No
+T098,C198,14043,Online,2/28/2026,San Francisco,No
+T099,C199,8560,Online,2/24/2026,Seattle,Yes
+T100,C200,14297,Offline,2/15/2026,San Francisco,No
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
