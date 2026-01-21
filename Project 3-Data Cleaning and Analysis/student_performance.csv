@@ -1,0 +1,16 @@
+﻿Student_ID,Gender,Age,Department,Attendance_%,Study_Hours_Per_Day,Internal_Marks,Final_Exam_Marks,Grade
+S101,Female,20,Computer,92,4,35,78,A
+S102,Male,21,Mechanical,85,3,30,65,B
+S103,Female,19,Electrical,88,5,38,82,A
+S104,Male,22,Civil,70,2,25,55,C
+S105,Female,20,Computer,95,6,40,90,A
+S106,Male,21,Mechanical,60,1,20,45,D
+S107,Female,19,Electrical,75,3,28,60,B
+S108,Male,22,Civil,68,2,24,52,C
+S109,Female,20,Computer,90,5,37,85,A
+S110,Male,21,Mechanical,80,4,32,70,B
+S111,Female,23,Electrical,55,1,18,40,D
+S112,Male,20,Civil,73,3,27,58,C
+S113,Female,19,Computer,98,7,42,95,A
+S114,Male,22,Mechanical,82,4,33,72,B
+S115,Female,21,Electrical,88,5,36,80,A
